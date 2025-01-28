@@ -1,0 +1,14 @@
+.token.key {
+    color: purple;
+  }
+  
+  .token.string,
+  .token.number,
+  .token.boolean,
+  .token.null {
+    color: yellow;
+  }
+  
+  .token.punctuation {
+    color: white;
+  }
